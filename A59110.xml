@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Sad and terrible relation of two dreadful earth-quakes the one happening in England ... on the 8th of September, and the other at Jamaco, in the West-Indies, on the 7th of July, 1692, with their dreadful effects ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59110</idno>
+            <idno type="STC">Wing S245</idno>
+            <idno type="STC">ESTC R37199</idno>
+            <idno type="EEBO-CITATION">16268042</idno>
+            <idno type="OCLC">ocm 16268042</idno>
+            <idno type="VID">105195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1156:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Sad and terrible relation of two dreadful earth-quakes the one happening in England ... on the 8th of September, and the other at Jamaco, in the West-Indies, on the 7th of July, 1692, with their dreadful effects ...</title>
+               </titleStmt>
+               <extent>[2], 14 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, J. Deacon, J. Blare, and J. Back,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains added illustrated t.p.</note>
+                  <note>"Licensed according to order."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Earthquakes --  Jamaica.</term>
+               <term>Earthquakes --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105195:1"/>
+            <pb facs="tcp:105195:1"/>
+            <p>A Sad and Terrible RELATION Of Two Dreadful Earth-quakes That happened in <hi>England</hi> and at <hi>Jamaca.</hi>
+            </p>
+            <figure>
+               <figDesc>corpses lie on the ground while animals flee from a city being destroyed</figDesc>
+            </figure>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>Printed for <hi>P. Brooksby, J. Deacon, J. Blare,</hi> and
+<hi>J. Back.</hi> 1692.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:105195:2" rendition="simple:additions"/>
+            <pb facs="tcp:105195:2"/>
+            <p>A Sad and Terrible Relation Of Two Dreadful
+<hi>Earth-quakes</hi> The one happening in ENGLAND, Eſpecially at
+<hi>London</hi> and <hi>Cambridge,</hi> On the 8th. of <hi>September,</hi> and the other at JAMACO, In the <hi>WEST-INDIES,</hi> On the 7th. of <hi>July,</hi>
+1692.</p>
+            <p>With their Dreadful Effects; but more eſpecially the great Damage the latter did at <hi>Port-Royal,</hi> and in divers other places of
+<hi>Jamaca,</hi> to the Deſtructi<g ref="char:EOLhyphen"/>on of many People and Buildings; with the Deſtruction of the <hi>Swan</hi> Frigat, by the Shaking and Opening of the Earth, and Inundation of Water.</p>
+            <p>ALSO, An Account of the Defeat of the <hi>French</hi> then Landed in <hi>Jamaca,</hi> the deſtroying their Ships and Men,
+<hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>Printed for <hi>P. Brooksby. J. Deacon, J. Blare,</hi> and
+<hi>J. Back.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:105195:3"/>
+            <pb n="3" facs="tcp:105195:3"/>
+            <head>A Sad and Terrible RELATION Of Two Dreadful
+<hi>Earth-quakes.</hi>
+            </head>
+            <p>GReat and Terrible are the Wonderful Works of God in his Creation, and yet more amazing and ſtupen<g ref="char:EOLhyphen"/>dious, the Effects of them relating to the power and force he Arms the Elements withal, which demonſtrates his Almightineſs, and the weakneſs of our greateſt Strength and Force; when he deſigns to baffle and over<g ref="char:EOLhyphen"/>throw them, even the Winds, the Sea, the Fire and the Aire, are In<g ref="char:EOLhyphen"/>ſtruments <pb n="4" facs="tcp:105195:4"/>of Might in his hand, and when he raiſes them up, who can ſtand before them? The Holy Scrip<g ref="char:EOLhyphen"/>ture tells us, <hi>The Earth trembles at his preſence, and the foundations there<g ref="char:EOLhyphen"/>of are ſhaken; the Hills melt, and the Mountains ſmoak at his touch; he drys up the Deep with his looks, and at his Rebuke the Heavens flee away, and are rolled up together like a Scrowl.</hi>
+            </p>
+            <p>Theſe things ſhould ſtrike fear and awe into the hearts of Men, and make them tremble at ſo great a Ma<g ref="char:EOLhyphen"/>jeſty; and amongſt all theſe, <hi>Earth-quakes</hi> are very terrib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and amazing; for how can we but tremble, when we feel the Frame of the Earth ſhake under us, the Foundations of the Round World totter, ſo that we know not in the Conſternation and Confuſion, whither to fly for ſafety!</p>
+            <p>This happens generally in <hi>Earth-quakes,</hi> of which we in our Age have had many ſad Inſtances; people have been ſhaken out of their Habitations, <pb n="5" facs="tcp:105195:4"/>or buried in the Rubbiſh, ſome ſwal<g ref="char:EOLhyphen"/>lowed up alive in the gaping brea<g ref="char:EOLhyphen"/>ches of the Earth; and indeed, all Contingencies of this nature have been very fearful and amazing: <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as many Hiſtories make men<g ref="char:EOLhyphen"/>tion, has not been free at ſundry times from theſe ſtrange Convulſi<g ref="char:EOLhyphen"/>ons, and a trembling of it was felt near a Year <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ince, here and in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> at one and the ſame time:
+<hi>Naples</hi> and <hi>Lima</hi> have lately had their ſhare, the one much ſhatter<g ref="char:EOLhyphen"/>ed, and the other quite demoliſhed: But to leave what has been a few Years paſt, we come now to the preſent lamentable Subject of this Paper.</p>
+            <p>After what has been ſaid relating to <hi>Earth-quakes,</hi> I ſhall inſtance thoſe that have happened very lately: and becauſe it is neareſt and moſt in Me<g ref="char:EOLhyphen"/>mory, I ſhall firſt inſtance that which happened in <hi>England</hi> on the 8th. of <hi>September,</hi> the which though it did <pb n="6" facs="tcp:105195:5"/>not any damage as yet heard of, was very terrible and amazing, becauſe not frequent in theſe parts.</p>
+            <p>It happened after much Rain, in the former part of the Year, to be a very hot and dry Seaſon in <hi>Auguſt</hi> and the beginning of
+<hi>September,</hi> and was on the day this happened, to be the firſt conſiderable Rain that had interve<g ref="char:EOLhyphen"/>ned, when between One and Two in the Afternoon it Raining hard, and being very Cloudy Weather, all on a ſudden the Houſes in <hi>London, Weſtminſter, Wapping, Southwark,</hi> and many Miles d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtant, and (as we ſince have heard) almoſt throughout <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> began to Rock and Dance as it were, to the great ſtartling and amazement of the Inhabitants, ſome imagining the Foundations were ſink<g ref="char:EOLhyphen"/>ing, others that they were poſſeſſed with Dizzineſs;, or <hi>Vertigo</hi> their heads by the unexpected motion, ſwiming with an unuſual kind of Giddyneſs; Some conjectured it the ſudden blow<g ref="char:EOLhyphen"/>ing <pb n="7" facs="tcp:105195:5"/>up of Powder Mills near <hi>London;</hi> however, though the Cauſe was not in ſuch a ſurprize preſently known, yet the Stools, Chairs, Pewter, and other Houſhold Utenſils, moving, and as it were, taking an unuſual Dance: The Streets were filled with people that left their Houſes, ſome with Chil<g ref="char:EOLhyphen"/>dren in their Arms, others with Chil<g ref="char:EOLhyphen"/>dren following and crying after them; and although it gave but three Shakes, and thoſe in about a Minutes ſpace, yet ſo great was the Conſternation, the people fearing a worſe Effect, that their diſturbance and diſorder conti<g ref="char:EOLhyphen"/>nued a long time. Some old decayed Houſes were a little ſhattered by the Shock, but we hear not of any that totally fell: Nor had it only its effects on Land, but on the Water, the Ri<g ref="char:EOLhyphen"/>ver of <hi>Thames</hi> toſſing at that time, as if it had been a great Tempeſt, to the Admiration of thoſe that were paſſing it; and a ſtrange Murmuring in the Aire was heard, as of a ſudden Whirl<g ref="char:EOLhyphen"/>wind;
+<pb n="8" facs="tcp:105195:6"/>and thoſe that came for many Miles from the adjacent parts, report, that its. Effects there were very fear<g ref="char:EOLhyphen"/>ful and ſurprizing. We have a parti<g ref="char:EOLhyphen"/>cular Account its Effects were felt at <hi>Shierneſs, Portſmouth<g ref="char:punc">▪</g>
+               </hi> and many other places, but more ſenſibly at <hi>Cambridge,</hi> where the Colledge-Halls, and other Famous Structures of the Univerſity Rocked and Tottered exceedingly, as well as the meaner Buildings, whilſt the affrighted Students and other In<g ref="char:EOLhyphen"/>habitants, run out trembling, as in o<g ref="char:EOLhyphen"/>ther places; though, through Gods wonderful Mercy, it only Frighted, without occaſioning any extraordina<g ref="char:EOLhyphen"/>ry Damage, as uſually attends <hi>Earth-quakes;</hi> for which <hi>Let us Praiſe and Magnifie his Holy Name, ſince other Nations have not been ſo preſerved, as in the following Account will more evi<g ref="char:EOLhyphen"/>dently appear.</hi>
+            </p>
+            <pb n="9" facs="tcp:105195:6"/>
+            <p>Few, we believe, there are in <hi>England,</hi> but have heard of the Fa<g ref="char:EOLhyphen"/>mous Iſland of <hi>Jamaco,</hi> taken by the <hi>Engliſh</hi> from the <hi>Spaniards,</hi> in their Expedition to the <hi>Weſt-Indies,</hi>
+1653. an Iſland then very Fruitful, but ſince more plentifully improved, but more eſpecially it has been noted for the Terrible <hi>Earth-quake</hi> lately happening there: ſome ſigns of an <hi>Earth-quake</hi> appeared by the paleneſs of the <hi>Sun</hi> at ſetting, dullneſs of the
+<hi>ſtars</hi> in the Night, thickneſs and groſsneſs of the Aire, the unuſual murmuring of the Winds, and huge ſwelling of the Sea; the which on the 7th. of <hi>July</hi> about Noon, broke out by the Harbour ſide in
+<hi>Port-Royal,</hi> and did great Damage upon the Iſland, throwing down there many Houſes, but on the Harbour divers of the Houſes ſunk down, from three to five Fathom, in a very ſhort ſpace, computed at no more than a Minute: And what was yet <pb n="10" facs="tcp:105195:7"/>more fearful, in the Streets next the Wharf, the Ground opened, with fearful Gapings, out of which iſſued ſuch abundance of Water, that di<g ref="char:EOLhyphen"/>vers of the Inhabitants were drown<g ref="char:EOLhyphen"/>ed in the Flood, which came out like a mighty Deluge, the Breach being very wide and deep: The other part of the Town that eſcaped the Water, was very much ſhatter<g ref="char:EOLhyphen"/>ed, ſo that the people were forced to fly from them, ſome being much Wounded by the falling Ruins, and ſome are ſuppoſed to have periſhed in them; but thoſe who had loſt their Habitations and eſcaped, were taken care of by order of the Ma<g ref="char:EOLhyphen"/>giſtrates, who took great care for their ſafety and ſubſiſtance.</p>
+            <pb n="11" facs="tcp:105195:7"/>
+            <p>The <hi>Swan Frigat</hi> that was Ca<g ref="char:EOLhyphen"/>reening on the Wharf, and not able to get off, was driven in among the ruined Buildings, and Stones of the VVorks where ſhe was, beaten to pieces, and the trembling of the Earth continued for a long time; the Sea ſeemed to Swell more than uſual, and boile up, as being extra<g ref="char:EOLhyphen"/>ordinarily Agitated.</p>
+            <p>During this Diſorder in the Iſland, it happened that divers
+<hi>French</hi> Veſ<g ref="char:EOLhyphen"/>ſels came in to the Northward, and Landed about Three Hundred Men, doing ſome little Damage: where<g ref="char:EOLhyphen"/>upon their Majeſties Ship the
+<hi>Guern<g ref="char:EOLhyphen"/>ſey,</hi> being a Man of VVar, and ſome Sloops, took a Compaſs to come in with them, and fell ſo ſucceſsfully upon them, that having battered the <hi>French</hi> Veſſels a while, they ſet them on Fire, and ſo warily plyed thoſe on the Land, that they were all cut off, except Eighteen that got <pb n="12" facs="tcp:105195:8"/>off in a Shallop and narrowly e<g ref="char:EOLhyphen"/>ſcaped the fury of our Men, who in this Action got ſome conſiderable Booty: So that as our people ſuf<g ref="char:EOLhyphen"/>fered by the
+<hi>Earth-quake,</hi> againſt which there is no contending, or at leaſt preventing, in humane power or poſſibility, the <hi>French</hi> bore a part in this, or a more ſhameful Misfor<g ref="char:EOLhyphen"/>tune, by being overthrown with a ſmall number, when they had, no doubt, promiſed themſelves great things from this attempt, as being at great Charge to enterprize it; and indeed, it happened at ſuch a time as might have promiſed them better ſucceſs than they met with<g ref="char:EOLhyphen"/>al; So leaving them to their deſer<g ref="char:EOLhyphen"/>ved Fate, we come to make ſome Remarks upon the <hi>Earth-quake.</hi>
+            </p>
+            <p>The extraordinary Fury that did this Execution, we find was ſo ſudden and unexpected, that divers people more than did, muſt have periſhed in the Waters, and the Ru<g ref="char:EOLhyphen"/>ins <pb n="13" facs="tcp:105195:8"/>of the tottering Houſes, that could not preſently be known who they were; for by the report of ſe<g ref="char:EOLhyphen"/>veral that were Spectators of their lamentable Misfortune, the blowing up was ſo ſwift, as if it had been a Train of Powder laid under ſome mighty Pile of Buildings; yet they thought in that combuſtible Confu<g ref="char:EOLhyphen"/>ſion, they heard the Cry of the mi<g ref="char:EOLhyphen"/>ferable people that periſhed; but as ſoon as the Terr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and Conſternati<g ref="char:EOLhyphen"/>on was over, all diligence and care was uſed to ſave and ſuccour thoſe that had got off, and the people e<g ref="char:EOLhyphen"/>very where ſhewed their extraordi<g ref="char:EOLhyphen"/>nary Charity towards them, and commiſerated their ſufferings; and the Enemy, as you have heard, who came to make advantage and inſult over their Miſeries in this great Ca<g ref="char:EOLhyphen"/>lamity, not only loſt his expectation, but was utterly Routed; ſo that theſe diſtreſſed people in the midſt of dan<g ref="char:EOLhyphen"/>ger, found Mercy and Deliverance.</p>
+            <pb n="14" facs="tcp:105195:9"/>
+            <p>Theſe kind of <hi>Earth-quakes</hi> are in themſelves very Ter<g ref="char:EOLhyphen"/>rible, and are occaſioned by an Exhalation of Hot and Cold that is encloſed in the Caves of the Earth, ſtrugling there to find paſſage and break forth, and forces out violent<g ref="char:EOLhyphen"/>ly when it comes into ſo nar<g ref="char:EOLhyphen"/>row a paſſage that it cannot find wideneſs enough to <hi>breathe,</hi> being more violent in ſhaking the Earth, ſometimes rending and cleaving it, at other times caſting up Earth a great height into the Aire, and ſometimes it cauſeth it to ſink to great depths, as in the preſent caſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105195:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
